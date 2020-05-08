@@ -1,27 +1,27 @@
-title: pritam's blog
+title: alphablogger
 logo:  # you can add own logo.
-description: Doodler. Scribbler. Philonoist. Spy. Time-Traveller.
+description: a smart blog for smarter digital marketing!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: pritam's blog
+  name: alphablogger
   image: '/assets/img/08.jpg'
-  job: pritam's blog
-  bio: Doodler. Scribbler. Philonoist. Spy. Time-Traveller.
+  job: 
+  bio: a smart blog for smarter digital marketing!
   email: hi@prritam.com
 
 
 # Contact links
 contact:
   - name: Twitter
-    link: https://twitter.com/prritam
+    link: 
   - name: Facebook
-    link: https://www.facebook.com/prritam
+    link: 
   - name: Instagram
-    link: https://www.instagram.com/murphyable/
+    link: 
 
 
 # Comment Section (Disqus)

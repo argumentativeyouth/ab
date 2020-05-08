@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "How To Proofread Your Blog Content"
-author: Murph
-categories: [ ]
-image: assets/featured-images/how-to-proofread-your-blog-content-alphablogger.jpg
 ---
 
 Imagine you are reading an article and you come across a misspelled word in the first paragraph itself. Or maybe the punctuation are all messed up? What if the sentences are not grammatically correct?

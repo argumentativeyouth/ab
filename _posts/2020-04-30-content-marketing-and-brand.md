@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Content Marketing & Brand: The Identity Of A Business Built From Trust & Expectations"
-author: Murph
-categories: [ ]
-image: assets/featured-images/content-marketing-and-brand-alphablogger.jpg
 ---
 
 Brand! We use this word very frequently in our day-to-day life! But what exactly does the word mean?

@@ -1,9 +1,6 @@
 ---
 layout: post
 title:  "Importance Of Typography: It Is Powerful & It Tells Stories"
-author: Murph
-categories: [ ]
-image: assets/featured-images/importance-of-typography-alphablogger-1.jpg
 ---
 
 Until a few years back, I considered Typography as the most boring, monotonous and mundane element of design.

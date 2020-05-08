@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "As A Serious Blogger, You Must Cater To These Three"
-image: assets/featured-images/As-A-Serious-Blogger--You-Must-Cater-To-These-Three---Alphablogger.jpg
 ---
 
 Content Writing, especially writing blogs, is not a menial job.
